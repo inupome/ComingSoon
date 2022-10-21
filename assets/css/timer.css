@@ -37,6 +37,10 @@
   font-weight: bold;
 }
 
+a{
+  color: #fa65b1;
+}
+
 @media screen and (max-width:480px) {
   #CDT{
     width: 100%;
